@@ -1,3 +1,6 @@
+# Version 0.13.3
+* Added option to toggle warnings for global variables ("Possibly undefined variable" warning)
+
 # Version 0.12.2
  * Added new functions and operators
 

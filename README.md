@@ -1,5 +1,7 @@
-# vscode-sqflint
-Integrates sqflint tool into VS code.
+# vscode-sqflint-revisited
+Integrates sqflint tool into VS code. 
+
+In this "Revisited" version, an **option to toggle warnings for global variables** ('Possibly undefined variable') has been added. If you change the setting in extension settings, remember to restart your Visual Studio Code after it.
 
 # Prerequisites
 Java ( You no longer need to have sqflint installed as it's bundled with extension. )
