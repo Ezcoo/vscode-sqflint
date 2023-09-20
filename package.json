@@ -1,12 +1,12 @@
 {
-	"name": "sqflint",
-	"displayName": "SQFLint",
+	"name": "sqflint-revisited",
+	"displayName": "SQFLint Revisited",
 	"description": "Parse errors, hover help for functions/commands and more.",
-	"author": "Jan Zípek, Senfo",
+	"author": "Jan Zípek, Senfo and Ezcoo",
 	"icon": "client/images/sqflint.png",
 	"license": "MIT",
-	"version": "0.12.2",
-	"publisher": "skacekachna",
+	"version": "0.13.3",
+	"publisher": "Ezcoo",
 	"engines": {
 		"vscode": "^1.33.1",
 		"node": "^7.9.0"
